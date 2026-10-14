@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+* text=autoo
+# i have change auto to autoo
